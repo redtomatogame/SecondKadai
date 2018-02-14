@@ -29,7 +29,7 @@ class ResultViewController: UIViewController {
         //x,yの値を新たに代入されたので両方とも1が入っている
         let result = x + y
         
-label.text = "結果は \(result) です"
+label.text = "こんにちは、 \(result) さん"
     }
 
     override func didReceiveMemoryWarning() {
